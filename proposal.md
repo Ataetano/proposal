@@ -245,6 +245,31 @@ Where $n = 0,1,2, \ldots$.
 
 ---
 
+## Expanded Rhythm
+
+<div class="container">
+  <div class="column">
+    <center>
+    <h6>Original Variation</h6>
+      <img src="img/er_1.png" width="45%" />
+      <audio controls>
+        <source src="mp3/er_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </center>
+  </div>
+  <div class="column">
+    <center>
+    <h6>Expanded Rhythm</h6>
+      <img src="img/er_12.png" width="100%" />
+      <audio controls>
+        <source src="mp3/er_12.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </center>
+  </div>
+</div>
+
 
 
 
